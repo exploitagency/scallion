@@ -38,7 +38,7 @@ Dependencies
 
 Binary Download
 ---------------
-Just want the latest binary version? Grab it [here](https://github.com/lachesis/scallion/raw/binaries/scallion-v2.0.zip).
+Just want the latest binary version? Grab it [here](https://github.com/exploitagency/scallion/releases/download/Binary/scallion.zip).
 
 Build Linux
 -----------
